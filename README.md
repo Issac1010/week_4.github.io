@@ -22,6 +22,9 @@ Our Project Title is **_Amphibious Twin Screw Robots_**
     are concentrated in duck Pu type and crawler type, propeller drive is rare, so this topic is very innovative.
 
 ![image](https://github.com/Issac1010/week_4.github.io/assets/143713302/1e91f740-3f2a-49cc-a7d0-de12157fd01b)
+
+**VS**
+
 ![8a5af975b5d35a886de1f07ada6ba33](https://github.com/Issac1010/week_4.github.io/assets/143713302/e2542a88-b04d-4f49-b229-3840a27b60bb)
 
 **Robot Features:** 
